@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/messi/Documents/GitHub/android-gpuimage/sample/build/intermediates/pre-dexed/debug/classes-0256fe01fb2137e3e3bf872bcb972081351d39c2.jar"
+        jar="/Users/messi/Documents/GitHub/android-gpuimage/sample/build/intermediates/exploded-aar/android-gpuimage/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="25e453312a54c0c9260cd9bf77a920f76afd7479"/>
+    <item
+        dex="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/build/intermediates/pre-dexed/debug/android-support-v4-9ce4def138d4e21682bfc7a6f63755a8921e1e40.jar"
+        jar="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="612846c9857077a039b533718f72db3bc041d389"/>
+    <item
+        dex="/Users/messi/Documents/GitHub/android-gpuimage/sample/build/intermediates/pre-dexed/debug/android-support-v4-fe3ebe22008a44a0c9dfc8446340e8cd6f12c9af.jar"
+        jar="/Users/messi/Documents/GitHub/android-gpuimage/sample/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="612846c9857077a039b533718f72db3bc041d389"/>
+    <item
+        dex="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/build/intermediates/pre-dexed/debug/classes-068a00a0e58847cb30ed4afa9000ed49f5a18121.jar"
+        jar="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/build/intermediates/exploded-aar/android-gpuimage/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="721f4d7596741036f7e6f63ab2313ec22ec17b8d"/>
+
+</pre-dex-items>

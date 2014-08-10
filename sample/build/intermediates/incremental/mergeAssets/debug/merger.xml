@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/build/intermediates/exploded-aar/android-gpuimage/library/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/messi/AndroidStudioProjects/android-gpuimage/sample/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
